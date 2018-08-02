@@ -1,3 +1,3 @@
 var index = required ("./index.js")
 
-console.log(name)
+console.log(index.name)
