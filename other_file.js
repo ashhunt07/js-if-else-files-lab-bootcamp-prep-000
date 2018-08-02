@@ -1,4 +1,4 @@
 var index = 
-required ("./index.js")
+required ("/.index.js")
 
 console.log(index.name)
